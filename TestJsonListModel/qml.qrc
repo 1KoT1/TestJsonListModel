@@ -1,6 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
+        <file>jsonData.txt</file>
+        <file>JSONListModel.qml</file>
+        <file>jsonpath.js</file>
     </qresource>
 </RCC>
